@@ -1,0 +1,136 @@
+{
+  "navbar": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetlerimiz",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Küresel Lojistik Çözümleri",
+    "description": "Balkanlar'dan Avrupa'nın birçok ülkesine hızlı, güvenilir ve profesyonel taşımacılık hizmeti sunuyoruz!",
+    "ctaContact": "Teklif Alın",
+    "ctaServices": "Hizmetlerimiz"
+  },
+  "services": {
+    "title": "Uluslararası Taşımacılık Hizmetlerimiz",
+    "description": "Dünya çapında müşterilerimize sunduğumuz kapsamlı lojistik çözümlerimizle işinizi büyütmenize yardımcı oluyoruz.",
+    "items": [
+      {
+        "title": "Denizyolu Taşımacılığı",
+        "description": "Dünya çapında limanlar arası güvenilir ve ekonomik denizyolu taşımacılık hizmetleri.",
+        "features": [
+          "FCL (Tam Konteyner)",
+          "LCL (Parsiyel Konteyner)",
+          "Proje Kargo Taşımacılığı"
+        ]
+      },
+      {
+        "title": "Karayolu Taşımacılığı",
+        "description": "Avrupa, Asya ve Orta Doğu'ya uzanan geniş karayolu ağımızla güvenli ve zamanında teslimat.",
+        "features": [
+          "Parsiyel Taşımacılık",
+          "Komple Araç Taşımacılığı",
+          "Özel Yük Taşımacılığı"
+        ]
+        
+      },
+      {
+        "title": "Havayolu Taşımacılığı",
+        "description": "Acil ve zaman hassasiyeti olan gönderileriniz için hızlı ve güvenli havayolu çözümleri.",
+        "features": [
+          "Express Kargo",
+          "Standart Kargo",
+          "Özel Kargo Çözümleri"
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Lojistik İhtiyaçlarınız İçin Hemen Bize Ulaşın",
+    "description": "Uluslararası taşımacılık konusunda uzman ekibimiz, ihtiyaçlarınıza özel çözümler sunmak için hazır.",
+    "button": "Teklif Alın"
+  },
+  "about": {
+  "title": "Hakkımızda",
+  "description1": "ZFRLOG olarak, lojistik süreçlerde hız, güven ve esneklik ilkelerini temel alıyor; iş ortaklarımıza zamanla yarışan çözümler sunuyoruz. Stratejik lojistik modelimiz olan Minivan Express ile, uçuş saatlerine bağlı kalmadan, gümrükte beklemeden ve aktarma süreçlerine takılmadan yüklerinizi en kısa sürede hedefe ulaştırıyoruz.",
+  "description2": "Bayram ve yoğun dönemlerde bile 20’den fazla ülkeye zamanında teslimat yaparak işlerinizi aksatmadan sürdürüyoruz. Minivan Express hizmetimizle gönderileriniz güvenli ve tam zamanında yerine ulaşır.",
+  "description3": "ZFRLOG – Yükünüzü değil, güveninizi taşıyoruz.",
+  "experienceTitle": "35+ Yıllık Deneyim",
+  "countriesServed": "Hizmet Verilen Ülke",
+  "expertStaff": "Uzman Personel"
+},
+"stats": {
+  "countries": "Ülke",
+  "experience": "Yıllık Deneyim",
+  "deliveries": "Başarılı Teslimat",
+  "happyCustomers": "Mutlu Müşteri"
+},
+"testimonials": {
+  "title": "Müşterilerimiz Ne Diyor?",
+  "description": "Hizmetlerimizden memnun kalan müşterilerimizin değerli görüşleri.",
+  "items": [
+    {
+      "name": "Anıl Eren",
+      "company": "Tornado Lojistik",
+      "text": "Avrupa’ya yaptığımız düzenli sevkiyatlarda her zaman zamanında, güvenilir ve sorunsuz bir taşımacılık hizmeti aldık."
+    },
+    {
+      "name": "Mehmet Kaya",
+      "company": "Ege Global Lojistik",
+      "text": "Uluslararası kara taşımacılığında sağladıkları güçlü ağ ve gümrük süreçlerindeki destekleriyle tüm yüklemelerimiz sorunsuz ilerliyor."
+    },
+    {
+      "name": "Funda Özdemir",
+      "company": "Avt Lojistik",
+      "text": "İhracat yüklemelerimizde sundukları hızlı ve planlı lojistik çözümleriyle teslimat sürelerimizi önemli ölçüde kısalttık."
+    }
+  ]
+},
+"contact": {
+    "title": "İletişim",
+    "description": "Sorularınız veya teklif talepleriniz için bizimle iletişime geçin.",
+    "form": {
+      "header": "Bize Ulaşın",
+      "name": "Adınız",
+      "email": "E-posta",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "submit": "Gönder",
+      "success": "Mesajınız başarıyla gönderildi! En kısa sürede size dönüş yapacağız.",
+      "error": "Bir hata oluştu: ",
+      "serverError": "Sunucuya bağlanırken bir hata oluştu."
+    },
+    "contactInfo": {
+      "header": "İletişim Bilgilerimiz",
+      "address": "Adres",
+      "phone": "Telefon",
+      "email": "E-posta",
+      "addressText": "Halkalı Merkez, Cihan Sk. No:9, 34303\nKüçükçekmece/İstanbul, Türkiye",
+      "phone1": "+90 (531) 943 23 74",
+      "phone2": "+90 (212) 741 18 58",
+      "email1": "info@zfrlog.com",
+      "email2": "z.kara@zfrlog.com"
+    },
+    "mapTitle": "Google Maps Konumumuz"
+},
+
+  "footer": {
+    "companyName": "ZFRLOG ULUSLARARASI TAŞIMACILIK A.Ş.",
+    "tagline": "Uluslararası Lojistik Çözümleri",
+    "quickAccess": "Hızlı Erişim",
+    "socialMedia": "Sosyal Medyada Biz",
+    "links": {
+      "home": "Ana Sayfa",
+      "services": "Hizmetlerimiz",
+      "about": "Hakkımızda",
+      "contact": "İletişim"
+    },
+    "contact": "İletişim",
+    "phone1": "+90 (212) 741 18 58",
+    "phone2": "+90 (531) 943 23 74",
+    "email": "info@firmaadi.com",
+    "copyright": "Tüm hakları saklıdır."
+  }
+
+
+}

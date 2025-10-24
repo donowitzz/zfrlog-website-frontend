@@ -1,0 +1,136 @@
+{
+  "navbar": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "about": "Über Uns",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Globale Logistiklösungen",
+    "description": "Wir bieten schnelle, zuverlässige und professionelle Transportdienstleistungen von den Balkanländern in zahlreiche europäische Länder!",
+    "ctaContact": "Angebot Anfordern",
+    "ctaServices": "Unsere Dienstleistungen"
+  },
+  "services": {
+    "title": "Unsere internationalen Transportdienstleistungen",
+    "description": "Wir helfen Ihnen, Ihr Geschäft mit umfassenden Logistiklösungen, die wir Kunden weltweit anbieten, auszubauen.",
+    "items": [
+      {
+         "title": "Seetransport",
+        "description": "Zuverlässige und wirtschaftliche Seefracht zwischen Häfen weltweit.",
+        "features": [
+          "FCL (Vollcontainerladung)",
+          "LCL (Teilladung im Container)",
+          "Projektfracht"
+        ]
+      },
+      {
+       "title": "Straßentransport",
+        "description": "Sichere und pünktliche Lieferung mit unserem umfangreichen Straßennetz in Europa, Asien und dem Nahen Osten.",
+        "features": [
+          "Teilladung",
+          "Kompletter Fahrzeugtransport",
+          "Spezialladung"
+        ]
+      },
+      {
+        "title": "Lufttransport",
+        "description": "Schnelle und sichere Luftfrachtlösungen für dringende und zeitkritische Sendungen.",
+        "features": [
+          "Expressfracht",
+          "Standardfracht",
+          "Spezielle Frachtlösungen"
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Kontaktieren Sie uns jetzt für Ihre Logistikbedürfnisse",
+    "description": "Unser Expertenteam für internationalen Transport steht bereit, um maßgeschneiderte Lösungen für Ihre Anforderungen zu bieten.",
+    "button": "Angebot Anfordern"
+  },
+  "about": {
+  "title": "Über uns",
+  "description1": "Bei ZFRLOG stehen Schnelligkeit, Zuverlässigkeit und Flexibilität im Mittelpunkt unserer Logistikprozesse. Wir bieten zeitkritische Lösungen für unsere Geschäftspartner. Mit unserem strategischen Logistikmodell Minivan Express liefern wir Ihre Sendungen in kürzester Zeit direkt ans Ziel unabhängig von Flugplänen, ohne Zollwartezeiten oder Umladungen.",
+  "description2": "Selbst an Feiertagen und in stark frequentierten Zeiten liefern wir pünktlich in über 20 Länder, damit Ihre Abläufe reibungslos weiterlaufen. Mit unserem Minivan Express-Service erreichen Ihre Sendungen sicher und termingerecht ihr Ziel.",
+  "description3": "ZFRLOG – Wir liefern nicht nur Waren, sondern Vertrauen.",
+  "experienceTitle": "35+ Jahre Erfahrung",
+  "countriesServed": "Belieferte Länder",
+  "expertStaff": "Fachpersonal"
+},
+"stats": {
+  "countries": "Länder",
+  "experience": "Jahre Erfahrung",
+  "deliveries": "Erfolgreiche Lieferungen",
+  "happyCustomers": "Zufriedene Kunden"
+},
+"testimonials": {
+  "title": "Was unsere Kunden sagen",
+  "description": "Wertvolles Feedback von Kunden, die mit unseren Dienstleistungen zufrieden sind.",
+  "items": [
+    {
+      "name": "Anıl Eren",
+      "company": "Tornado Lojistik",
+      "text": "Bei unseren regelmäßigen Lieferungen nach Europa haben wir stets einen pünktlichen, zuverlässigen und reibungslosen Transportservice erhalten."
+    },
+    {
+      "name": "Mehmet Kaya",
+      "company": "Ege Global Lojistik",
+      "text": "Dank ihres starken Netzwerks im internationalen Straßentransport und ihrer Unterstützung bei Zollprozessen verlaufen all unsere Sendungen reibungslos."
+    },
+    {
+      "name": "Funda Özdemir",
+      "company": "Avt Lojistik",
+      "text": "Durch ihre schnellen und gut geplanten Logistiklösungen bei unseren Exportsendungen konnten wir unsere Lieferzeiten deutlich verkürzen."
+    }
+  ]
+},
+
+  "contact": {
+    "title": "Kontakt",
+    "description": "Kontaktieren Sie uns bei Fragen oder Angebotsanfragen.",
+    "form": {
+      "header": "Kontaktieren Sie uns",
+      "name": "Ihr Name",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "message": "Ihre Nachricht",
+      "submit": "Senden",
+      "success": "Ihre Nachricht wurde erfolgreich gesendet! Wir werden uns so schnell wie möglich bei Ihnen melden.",
+      "error": "Ein Fehler ist aufgetreten: ",
+      "serverError": "Beim Verbinden mit dem Server ist ein Fehler aufgetreten."
+    },
+    "contactInfo": {
+      "header": "Unsere Kontaktinformationen",
+      "address": "Adresse",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "addressText": "Halkalı Merkez, Cihan Sk. Nr. 9, 34303\nKüçükçekmece/Istanbul, Türkei",
+      "phone1": "+90 (531) 943 23 74",
+      "phone2": "+90 (212) 741 18 58",
+      "email1": "info@zfrlog.com",
+      "email2": "z.kara@zfrlog.com"
+    },
+    "mapTitle": "Unsere Lage bei Google Maps"
+  },
+  "footer": {
+    "companyName": "ZFRLOG ULUSLARARASI TAŞIMACILIK A.Ş.",
+    "tagline": "Internationale Logistiklösungen",
+    "quickAccess": "Schnellzugriff",
+    "socialMedia": "Folgen Sie uns in den sozialen Medien",
+    "links": {
+      "home": "Startseite",
+      "services": "Unsere Dienstleistungen",
+      "about": "Über uns",
+      "contact": "Kontakt"
+    },
+    "contact": "Kontakt",
+    "phone1": "+90 (212) 741 18 58",
+    "phone2": "+90 (531) 943 23 74",
+    "email": "info@firmaadi.com",
+    "copyright": "Alle Rechte vorbehalten."
+  }
+
+
+
+}

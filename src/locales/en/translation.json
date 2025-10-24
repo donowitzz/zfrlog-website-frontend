@@ -1,0 +1,133 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Global Logistics Solutions",
+    "description": "We offer fast, reliable, and professional transportation services from the Balkans to many countries across Europe!",
+    "ctaContact": "Get a Quote",
+    "ctaServices": "Our Services"
+  },
+  "services": {
+    "title": "Our International Transportation Services",
+    "description": "We help you grow your business with comprehensive logistics solutions offered to customers worldwide.",
+    "items": [
+      {
+       "title": "Sea Transport",
+        "description": "Reliable and cost-effective sea freight services between ports worldwide.",
+        "features": [
+          "FCL (Full Container Load)",
+          "LCL (Less than Container Load)",
+          "Project Cargo Transport"
+        ]
+      },
+      {
+        "title": "Road Transport",
+        "description": "Safe and timely delivery with our extensive road network spanning Europe, Asia, and the Middle East.",
+        "features": [
+          "Partial Loads",
+          "Full Vehicle Transport",
+          "Special Cargo Transport"
+        ]
+      },
+      {
+        "title": "Air Transport",
+        "description": "Fast and secure air freight solutions for urgent and time-sensitive shipments.",
+        "features": [
+          "Express Cargo",
+          "Standard Cargo",
+          "Special Cargo Solutions"
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Contact Us Now for Your Logistics Needs",
+    "description": "Our expert international transportation team is ready to provide tailored solutions for your requirements.",
+    "button": "Get a Quote"
+  },
+  "about": {
+  "title": "About Us",
+  "description1": "At ZFRLOG, we prioritize speed, reliability, and flexibility in logistics operations, offering time-sensitive solutions to our business partners. With our strategic logistics model Minivan Express, we deliver your shipments to their destination in the shortest time without being dependent on flight schedules, waiting at customs, or facing transfer delays.",
+  "description2": "Even during holidays and peak periods, we ensure on-time deliveries to over 20 countries, helping you keep your operations running smoothly. With our Minivan Express service, your shipments reach their destination safely and right on time.",
+  "description3": "ZFRLOG – We don’t just carry goods, we carry trust.",
+  "experienceTitle": "35+ Years of Experience",
+  "countriesServed": "Countries Served",
+  "expertStaff": "Expert Staff"
+},
+"stats": {
+  "countries": "Countries",
+  "experience": "Years of Experience",
+  "deliveries": "Successful Deliveries",
+  "happyCustomers": "Happy Customers"
+},
+"testimonials": {
+  "title": "What Our Customers Say",
+  "description": "Valuable feedback from customers satisfied with our services.",
+  "items": [
+    {
+      "name": "Anıl Eren",
+      "company": "Tornado Lojistik",
+      "text": "We have always received timely, reliable, and smooth transportation service in our regular shipments to Europe."
+    },
+    {
+      "name": "Mehmet Kaya",
+      "company": "Ege Global Lojistik",
+      "text": "Thanks to their strong network in international road transportation and support in customs processes, all our shipments proceed smoothly."
+    },
+    {
+      "name": "Funda Özdemir",
+      "company": "Avt Lojistik",
+      "text": "With their fast and well-planned logistics solutions in our export shipments, we have significantly shortened our delivery times."
+    }
+  ]
+},
+"contact": {
+    "title": "Contact",
+    "description": "Get in touch with us for questions or proposals.",
+    "form": {
+      "header": "Reach Us",
+      "name": "Your Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send",
+      "success": "Your message has been sent successfully! We will get back to you shortly.",
+      "error": "An error occurred: ",
+      "serverError": "An error occurred while connecting to the server."
+    },
+    "contactInfo": {
+      "header": "Contact Information",
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "addressText": "Halkalı Merkez, Cihan St. No:9, 34303\nKüçükçekmece/Istanbul, Turkey",
+      "phone1": "+90 (531) 943 23 74",
+      "phone2": "+90 (212) 741 18 58",
+      "email1": "info@zfrlog.com",
+      "email2": "z.kara@zfrlog.com"
+    },
+    "mapTitle": "Our Location on Google Maps"
+  },
+  "footer": {
+    "companyName": "ZFRLOG ULUSLARARASI TAŞIMACILIK A.Ş.",
+    "tagline": "International Logistics Solutions",
+    "quickAccess": "Quick Access",
+    "socialMedia": "Find us on Social Media",
+    "links": {
+      "home": "Home",
+      "services": "Our Services",
+      "about": "About Us",
+      "contact": "Contact"
+    },
+    "contact": "Contact",
+    "phone1": "+90 (212) 741 18 58",
+    "phone2": "+90 (531) 943 23 74",
+    "email": "info@firmaadi.com",
+    "copyright": "All rights reserved."
+  }
+
+}
